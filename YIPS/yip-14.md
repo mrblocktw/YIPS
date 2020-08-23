@@ -1,7 +1,7 @@
 ---
 yip: 14
 title: yEarn Rewards Reserve
-status: Proposed
+status: Rejected
 author: YieldBouncer (@yieldbouncer)
 discussions-to: https://gov.yearn.finance/t/yip-14-yearn-rewards-reserve/136
 created: 2020-07-24
@@ -26,6 +26,19 @@ One of the best things about the yEarn ecosystem is that there isn’t any pre-m
 **FOR**: Reserve 5% of all yields earned through yEarn for protocol use.
 
 **AGAINST**: No changes. All rewards will continue to distribute evenly among YFI stakers.
+
+## Metadata
+
+| Name                | Value                                      |
+|---------------------|--------------------------------------------|
+| Proposed by         | 0x09173487b272311Edda01F45f97911aEB6aBd602 |
+| Total for votes     | 332839.5446 (99.69%)                       |
+| Total against votes | 1005.9567 (0.30%)                          |
+| Quorum              | 3.06% 𐄂                                    |
+| Start block         | 10525527                                   |
+| End block           | 10542807                                   |
+
+Source: [yieldfarming.info YFI Governance Information](https://yieldfarming.info/yearn/vote/)
 
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).

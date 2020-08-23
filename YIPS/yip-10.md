@@ -1,10 +1,11 @@
 ---
 yip: 10
 title: Transitionary YFI Only Voting
-status: Proposed
+status: Implemented
 author: Rewkang (@rewkang)
-discussions-to: https://gov.yearn.finance/t/yip-10-transitionary-yfi-only-voting/481 
+discussions-to: https://gov.yearn.finance/t/yip-10-transitionary-yfi-only-voting/481
 created: 2020-07-24
+implementation: https://etherscan.io/address/0xBa37B002AbaFDd8E89a1995dA52740bbC013D992
 ---
 
 ## Simple Summary
@@ -28,6 +29,19 @@ The community can replace this temporary YFI only voting structure after passing
 **FOR**: Governance moves to newly deployed YFI only voting contract.
 
 **AGAINST**: No governance changes.
+
+## Metadata
+
+| Name                | Value                                      |
+|---------------------|--------------------------------------------|
+| Proposed by         | 0x09173487b272311Edda01F45f97911aEB6aBd602 |
+| Total for votes     | 13641124.8956 (77.08%)                     |
+| Total against votes | 4054142.5578 (22.91%)                      |
+| Quorum              | 45.92% ✔                                   |
+| Start block         | 10518707                                   |
+| End block           | 10535987                                   |
+
+Source: [yieldfarming.info YFI Governance Information](https://yieldfarming.info/yearn/vote/)
 
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).

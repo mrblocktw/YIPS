@@ -1,10 +1,11 @@
 ---
 yip: 12
 title: Reducing the quorum for accepting proposal
-status: Proposed
+status: Implemented
 author: cp287 (@illlefr4u)
 discussions-to: https://gov.yearn.finance/t/yip-12-reducing-the-quorum-for-accepting-proposal/578
 created: 2020-07-24
+implementation: https://etherscan.io/tx/0x64ff868305c1271c51b85a4f69f547f3137bebeae611eff1e0a2d86714469b77#
 ---
 
 ## Simple Summary
@@ -39,6 +40,19 @@ Other ways to solve the quorum problem:
 **FOR**: The threshold for accepting the proposal drops to 20%.
 
 **AGAINST**: No change for threshold.
+
+## Metadata
+
+| Name                | Value                                      |
+|---------------------|--------------------------------------------|
+| Proposed by         | 0x74630370197b4c4795bFEeF6645ee14F8cf8997D |
+| Total for votes     | 5291919.8701 (66.22%)                      |
+| Total against votes | 2699427.0543 (33.77%)                      |
+| Quorum              | 39.76% ✔                                   |
+| Start block         | 10522307                                   |
+| End block           | 10539587                                   |
+
+Source: [yieldfarming.info YFI Governance Information](https://yieldfarming.info/yearn/vote/)
 
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
